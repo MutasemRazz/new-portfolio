@@ -1,0 +1,8 @@
+title: "Mutasem Razzouk Portfolio"
+theme: jekyll-theme-minimal
+description: "Aerospace & Mechanical Engineer | CFD | FEA | Private Pilot"
+baseurl: ""  # Leave empty for GitHub Pages root
+url: "https://mutasemrazz.github.io/portfolio"
+
+author:
+  name: "Mutasem Razzouk"
