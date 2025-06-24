@@ -24,3 +24,17 @@ Additionally, my involvement in the Student Organization for Aerospace Research 
 
 ---
 
+<hr>
+
+<table style="width:100%; font-size: 0.9rem;">
+  <tr>
+    <td>
+      <strong>Mutasem A. Razzek</strong><br>
+      <a href="mailto:mabdalrazzek@gmail.com">mabdalrazzek@gmail.com</a>
+    </td>
+    <td style="text-align:right;">
+      Mechanical & Aerospace Engineer | EIT | Private Pilot
+    </td>
+  </tr>
+</table>
+
