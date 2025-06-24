@@ -1,5 +1,4 @@
 title: "Mutasem A. Razzek Portfolio"
-theme: jekyll-theme-minimal
 remote_theme: orderedlist/minimal
 plugins:
   - jekyll-remote-theme
