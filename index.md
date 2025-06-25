@@ -5,8 +5,8 @@ title: "Mutasem A. Razzek – Mechanical & Aerospace Engineer"
 
 <style>
   body {
-    background-color: #121212;
-    color: #e0e0e0;
+    background-color: #f5f5f5 !important;
+    color: #121212;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
     padding: 0 1rem;
@@ -64,7 +64,7 @@ title: "Mutasem A. Razzek – Mechanical & Aerospace Engineer"
   <p>Mutasem A. Razzek – Mechanical & Aerospace Engineer</p>
 </header>
 
-<hr style="border: 1px solid #ccc;">
+ <hr>
 
 <nav>
   <a href="/projects/aerospace-mechanical.html">Aerospace & Mechanical Projects</a>
