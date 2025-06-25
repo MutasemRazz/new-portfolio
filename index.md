@@ -1,8 +1,8 @@
 ---
-
-layout: default
 title: "Mutasem A. Razzek Portfolio"
+layout: default
 ---
+
 
 {% include navigation.html %}
 
