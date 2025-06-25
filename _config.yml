@@ -1,3 +1,16 @@
-title: " "
+title: "Mutasem A. Razzek Portfolio"
 baseurl: ""  # Keep this empty if it's root-level
 
+nav:
+  - title: "Home"
+    url: /index.html
+  - title: "Aerospace & Mechanical Projects"
+    url: /projects/aerospace-mechanical.html
+  - title: "Rocketry & SOAR"
+    url: /projects/rocketry.html
+  - title: "Oil & Gas Engineering"
+    url: /projects/oil-gas.html
+  - title: "Aviation Experience"
+    url: /projects/aviation.html
+  - title: "Skills & Education"
+    url: /skills.html
