@@ -1,26 +1,25 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
   <meta charset="UTF-8">
   <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="/new-portfolio/assets/css/style.css">
 </head>
 <body>
-  <header>
-    <h1>{{ site.title }}</h1>
+  <header style="text-align: center; padding: 20px;">
+    <h1>Mutasem A. Razzek Portfolio</h1>
     <nav>
-      {% for item in site.nav %}
-        <a href="{{ item.url }}">{{ item.title }}</a>
-      {% endfor %}
+      <a href="/new-portfolio/index.html">Home</a> |
+      <a href="/new-portfolio/aerospace-mechanical.html">Aerospace & Mechanical Projects</a> |
+      <a href="/new-portfolio/projects/rocketry.html">Rocket</a> |
+      <a href="/new-portfolio/projects/oil-gas.html">Oil & Gas Engineering Projects</a> |
+      <a href="/new-portfolio/projects/aviation.html">Aviation Experience</a> |
+      <a href="/new-portfolio/skills.html">Skills & Education</a>
     </nav>
   </header>
 
-  <main class="container">
+  <main style="max-width: 900px; margin: auto; padding: 20px;">
     {{ content }}
   </main>
-
-  <footer>
-    <p>&copy; {{ "now" | date: "%Y" }} Mutasem A. Razzek</p>
-  </footer>
 </body>
 </html>

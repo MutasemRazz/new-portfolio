@@ -50,19 +50,32 @@ a:hover {
   background-color: #2b2b2b;
   border-radius: 12px;
   box-shadow: 0 0 20px rgba(255, 255, 255, 0.05);
-  text-align: center; /* Center text */
+  text-align: center;
 }
-
 
 /* Header & Footer */
 header,
 footer {
   background-color: #1f1f1f;
   color: #fff;
-  padding: 1rem;
+  padding: 1.5rem 1rem;
   text-align: center;
   border-top: 2px solid #444;
   border-bottom: 2px solid #444;
+}
+
+header h1 {
+  margin: 0.5em 0 0.2em;
+  font-size: 2em;
+}
+
+nav {
+  margin-top: 0.5rem;
+  font-size: 1rem;
+}
+nav a {
+  margin: 0 10px;
+  display: inline-block;
 }
 
 /* Footer Specific */
@@ -72,20 +85,22 @@ footer {
   color: #999;
 }
 
-/* Hide auto-generated GitHub link and config description */
+/* GitHub Pages noise */
 header .view,
 header p:first-of-type {
   display: none !important;
-}
-
-header,
-nav,
-footer {
-  text-align: center;
 }
 
 .portfolio-section ul {
   list-style-position: inside;
   padding-left: 0;
   text-align: center;
+}
+
+/* Make all images and videos centered */
+img, iframe, video {
+  display: block;
+  margin: 1rem auto;
+  max-width: 100%;
+  height: auto;
 }
