@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Aerospace & Mechanical Projects
-permalink: /projects/aerospace-mechanical.html
+permalink: /aerospace-mechanical.html
 ---
 
 
