@@ -1,0 +1,76 @@
+---
+layout: default
+title: Finite Element Analysis of a Cessna 172 Wing
+---
+
+<h2>🛩️ FEA on Cessna 172 Wing</h2>
+
+<p><strong>Course:</strong> ENME 547 – Finite Element Method (Fall 2024)<br>
+<strong>Role:</strong> Structural Analyst | <strong>Tools:</strong> SolidWorks, ANSYS, OpenFOAM</p>
+
+<h3>✅ Objectives</h3>
+<p>Evaluate structural performance of the Cessna 172 wing under realistic flight conditions.</p>
+<ul>
+  <li>Deformation and stress distribution using FEA</li>
+  <li>Vibration characteristics via modal analysis</li>
+  <li>Aerodynamic pressure loading using 2D CFD at cruise and climb attitudes</li>
+  <li>Ensure mesh accuracy through a grid convergence study</li>
+  <li>Recommend design improvements for fatigue resistance and vibration safety</li>
+</ul>
+
+<h3>📊 Key Results</h3>
+<ul>
+  <li><strong>Deformation:</strong><br>
+    High-speed: 73.7 mm<br>
+    Low-speed: 2.9 mm
+  </li>
+  <li><strong>Von Mises Stress:</strong><br>
+    Peaks near structural joints under climb and cruise loads
+  </li>
+  <li><strong>Grid Convergence Index (GCI):</strong> 0.5% – ensured &lt;5% error</li>
+  <li><strong>Natural Frequencies:</strong><br>
+    First five: 4.52 Hz to 119.63 Hz<br>
+    Critical modes: 29.5 Hz, 45.1 Hz, 46.4 Hz, 72 Hz
+  </li>
+  <li><strong>Modal Deformation:</strong> Max: 1.53 mm (Mode 4 – localized stress regions)</li>
+  <li><strong>Material:</strong> Non-linear Aluminum Alloy<br>
+    Yield: 280 MPa | Tangent Modulus: 50 MPa
+  </li>
+</ul>
+
+<h3>📦 Deliverables</h3>
+<ul>
+  <li>CAD Model of simplified Cessna 172 wing (NACA 2412), split into 5 segments</li>
+  <li>2D CFD Simulation to generate pressure profiles at cruise/climb (OpenFOAM)</li>
+  <li>FEA Simulation in ANSYS using pressure loads from CFD</li>
+  <li>Non-linear material modeling and large deformation enabled</li>
+  <li>Mesh refinement study with tetrahedral and wedge elements</li>
+  <li>Modal analysis to evaluate resonance and fatigue risk</li>
+</ul>
+
+<h3>🛠️ Design Recommendations</h3>
+<ul>
+  <li>Add composite reinforcements near critical stress areas</li>
+  <li>Avoid operating in resonance frequency ranges</li>
+  <li>Target fatigue hotspots for structural stiffening</li>
+</ul>
+
+<h3>🖼️ Visuals</h3>
+
+<h4>Figure 1 – Pressure Contour (Climb Attitude)</h4>
+<img src="/new-portfolio/assets/img/cessna-pressure-climb.png" alt="Pressure contour - climb">
+
+<h4>Figure 2 – Pressure Contour (Cruise Attitude)</h4>
+<img src="/new-portfolio/assets/img/cessna-pressure-cruise.png" alt="Pressure contour - cruise">
+
+<h4>Figure 3 – Total Deformation (Climb Attitude)</h4>
+<img src="/new-portfolio/assets/img/cessna-deformation-climb.png" alt="Deformation - climb">
+
+<h4>Figure 4 – Total Deformation (Cruise Attitude)</h4>
+<img src="/new-portfolio/assets/img/cessna-deformation-cruise.png" alt="Deformation - cruise">
+
+<h4>Figure 5 – Von Mises Stress (Climb Attitude)</h4>
+<img src="/new-portfolio/assets/img/cessna-vonmises-climb.png" alt="Von Mises - climb">
+
+<h4>Figure 6 – Von Mises Stress (Cruise Attitude)</h4>
+<img src="/new-portfolio/assets/img/cessna-vonmises-cruise.png" alt="Von Mises - cruise">
