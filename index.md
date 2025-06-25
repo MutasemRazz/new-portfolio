@@ -64,6 +64,8 @@ title: "Mutasem A. Razzek – Mechanical & Aerospace Engineer"
   <p>Mutasem A. Razzek – Mechanical & Aerospace Engineer</p>
 </header>
 
+<hr style="border: 1px solid #ccc;">
+
 <nav>
   <a href="/projects/aerospace-mechanical.html">Aerospace & Mechanical Projects</a>
   <a href="/projects/soar.html">Rocketry & SOAR Projects</a>
@@ -74,7 +76,6 @@ title: "Mutasem A. Razzek – Mechanical & Aerospace Engineer"
 </nav>
 
 <main>
-  <h2>👋 Hi, I’m Mutasem A. Razzek</h2>
   <strong>Mechanical & Aerospace Engineer | EIT | Private Pilot</strong>
   <p>
     As a recent Mechanical Engineering graduate with a minor in Aerospace Engineering from the University of Calgary, I’m driven by a deep commitment to the aerospace industry and innovation in mechanical design.
@@ -89,7 +90,7 @@ title: "Mutasem A. Razzek – Mechanical & Aerospace Engineer"
   <hr>
 
   <section class="portfolio-section">
-    <h3>🛠️ Portfolio Sections</h3>
+    <h3>Portfolio Sections</h3>
     <ul>
       <li><a href="/projects/aerospace-mechanical.html">Aerospace & Mechanical Projects</a></li>
       <li><a href="/projects/soar.html">Rocketry & SOAR</a></li>
@@ -99,8 +100,6 @@ title: "Mutasem A. Razzek – Mechanical & Aerospace Engineer"
       <li><a href="mailto:mabdalrazzek@gmail.com">Contact</a></li>
     </ul>
   </section>
-
-  <p class="contact">📬 You can reach me at: <a href="mailto:mabdalrazzek@gmail.com"><em>mabdalrazzek@gmail.com</em></a></p>
 </main>
 
 <hr>
