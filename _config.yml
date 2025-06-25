@@ -1,12 +1,15 @@
 title: "Mutasem A. Razzek Portfolio"
 description: "Aerospace & Mechanical Engineer | CFD | FEA | Private Pilot"
-baseurl: ""  # Leave empty for GitHub Pages root
+
+remote_theme: cotes2020/jekyll-theme-chirpy
+
+baseurl: ""  # For GitHub Pages root
 url: "https://mutasemrazz.github.io/portfolio"
 
 author:
   name: "Mutasem A. Razzek"
-
-theme: jekyll-theme-chirpy
+  email: "mabdalrazzek@gmail.com"
 
 plugins:
-  - jekyll-theme-chirpy
+  - jekyll-remote-theme
+
