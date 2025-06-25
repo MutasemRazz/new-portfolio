@@ -5,6 +5,7 @@ permalink: /projects/aerospace-mechanical.html
 ---
 
 
+
 # ✈️ Aerospace & Mechanical Projects
 
 Below are selected aerospace and mechanical projects I've completed using tools such as ANSYS, OpenFOAM, and SolidWorks.
