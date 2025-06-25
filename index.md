@@ -1,7 +1,9 @@
 ---
-title: "Mutasem A. Razzek Portfolio"
 layout: default
+title: "Mutasem A. Razzek – Mechanical & Aerospace Engineer"
 ---
+
+<div style="text-align: center; max-width: 700px; margin: auto;">
 
 ### **Mechanical & Aerospace Engineer | EIT | Private Pilot**
 
@@ -15,11 +17,11 @@ Additionally, my involvement in the Student Organization for Aerospace Research 
 
 ## 🛠️ Portfolio Sections
 
-- [Aerospace & Mechanical Projects](projects/aerospace-mechanical.md)
-- [Rocketry & SOAR](projects/soar.md)
-- [Oil & Gas Engineering](projects/oil-gas.md)
-- [Aviation Experience](projects/aviation.md)
-- [Skills & Education](skills.md)
+- [Aerospace & Mechanical Projects](/projects/aerospace-mechanical.md)
+- [Rocketry & SOAR](/projects/soar.md)
+- [Oil & Gas Engineering](/projects/oil-gas.md)
+- [Aviation Experience](/projects/aviation.md)
+- [Skills & Education](/skills.md)
 - [Contact](mailto:mabdalrazzek@gmail.com)
 
 ---
@@ -38,3 +40,4 @@ Additionally, my involvement in the Student Organization for Aerospace Research 
   </tr>
 </table>
 
+</div>
