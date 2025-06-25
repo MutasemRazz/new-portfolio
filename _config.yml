@@ -1,8 +1,6 @@
 title: "Mutasem A. Razzek Portfolio"
 description: "Aerospace & Mechanical Engineer | CFD | FEA | Private Pilot"
 
-theme: jekyll-theme-chirpy
-# OR for GitHub Pages with remote theme:
 remote_theme: cotes2020/jekyll-theme-chirpy
 
 plugins:
@@ -12,13 +10,12 @@ plugins:
   - jekyll-paginate
   - jekyll-feed
 
-baseurl: "" # leave blank unless in a subdirectory
+baseurl: ""  # Leave empty for GitHub Pages root
 url: "https://mutasemrazz.github.io/portfolio"
 
 author:
   name: "Mutasem A. Razzek"
 
-# Custom navigation links
 nav:
   - title: "Home"
     url: /
