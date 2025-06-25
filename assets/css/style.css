@@ -69,3 +69,10 @@ footer {
   font-size: 0.9rem;
   color: #999;
 }
+
+/* Hide auto-generated GitHub link and config description */
+header .view,
+header p:first-of-type {
+  display: none !important;
+}
+
