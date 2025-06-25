@@ -3,9 +3,6 @@ title: "Mutasem A. Razzek Portfolio"
 layout: default
 ---
 
-
-{% include navigation.html %}
-
 ### **Mechanical & Aerospace Engineer | EIT | Private Pilot**
 
 As a recent Mechanical Engineering graduate with a minor in Aerospace Engineering from the University of Calgary, I’m driven by a deep commitment to the aerospace industry and innovation in mechanical design.
