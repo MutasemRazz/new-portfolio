@@ -105,7 +105,7 @@ Aerospace & Mechanical Engineering | CFD | FEA | Aviation | Oil & Gas | Rocketry
   <section class="portfolio-section">
     <h3>Portfolio Sections</h3>
     <ul>
-      <li><a href="/projects/aerospace-mechanical.html">Aerospace & Mechanical Projects</a></li>
+      <li><a href="/aerospace-mechanical.html">Aerospace & Mechanical Projects</a></li>
       <li><a href="/projects/soar.html">Rocketry & SOAR</a></li>
       <li><a href="/projects/oil-gas.html">Oil & Gas Engineering</a></li>
       <li><a href="/projects/aviation.html">Aviation Experience</a></li>
