@@ -72,7 +72,7 @@ title: "Mutasem A. Razzek – Mechanical & Aerospace Engineer"
 
 <header>
   <h1>Mutasem A. Razzek Portfolio</h1>
-  <p style="color: #0d47a1; font-weight: 500;">
+  <p style="color: black; font-weight: normal;">
 Aerospace & Mechanical Engineering | CFD | FEA | Aviation | Oil & Gas | Rocketry | System Engineering
 </p>
 </header>
