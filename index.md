@@ -33,6 +33,7 @@ title: "Mutasem A. Razzek – Mechanical & Aerospace Engineer"
     max-width: 800px;
     margin: 0 auto;
     padding-bottom: 2rem;
+    text-align: center;  /* Add this line */
   }
   h1, h2, h3 {
     color: #000;
@@ -43,9 +44,14 @@ title: "Mutasem A. Razzek – Mechanical & Aerospace Engineer"
     margin: 2rem 0;
   }
   .portfolio-section ul {
-    list-style-type: circle;
-    padding-left: 1.2rem;
+    list-style-type: none;
+    padding: 0;
   }
+  .portfolio-section li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+
   .portfolio-section a {
     color: #003366; /* dark blue for list links */
   }
@@ -60,10 +66,14 @@ title: "Mutasem A. Razzek – Mechanical & Aerospace Engineer"
   footer {
     font-size: 0.9rem;
     color: #aaa;
+    text-align: center;
+    flex-direction: column;
+    padding: 1rem;
     display: flex;
-    justify-content: space-between;
-    padding: 0 1rem;
+    align-items: center;
+    gap: 0.5rem;
   }
+
 </style>
 
 <header>
