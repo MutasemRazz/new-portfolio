@@ -12,7 +12,7 @@ Below are selected aerospace and mechanical projects I've completed using tools 
 
 ---
 
-### 🛠️ [FEA Analysis of Cessna 172 Wing](/projects/cessna-wing-fea.html)
+### 🛠️ [FEA Analysis of Cessna 172 Wing](/new-portfolio/projects/cessna-fea.html)
 - Structural analysis using FEA to evaluate deformation, stress, and vibration on a simplified wing under real flight conditions.
 - Integrated CFD loads from 2D steady-state simulations to model climb and cruise performance.
 
