@@ -9,6 +9,12 @@ body::before {
   z-index: 9999;
 }
 
+/* Hide auto-generated description and GitHub link */
+header .view,
+header p {
+  display: none;
+}
+
 /* Base Styles */
 body {
   font-family: 'Segoe UI', sans-serif;
