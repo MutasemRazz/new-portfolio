@@ -1,6 +1,4 @@
 body::before {
-  /*content: "✅ Custom CSS Loaded";
-  background: limegreen;*/
   color: black;
   padding: 5px;
   position: fixed;
@@ -9,20 +7,49 @@ body::before {
   z-index: 9999;
 }
 
-/* Base Page Style */
+/* Base */
 body {
   font-family: 'Segoe UI', sans-serif;
-  background-color: #f4f4f4; /* light gray background */
-  color: #222;
+  background-color: #f0f0f0; /* Light gray */
+  color: #000; /* Black text */
   line-height: 1.6;
   margin: 0;
   padding: 0;
 }
 
-/* Header + Nav */
+/* Typography */
+h1, h2, h3, h4, h5 {
+  font-family: 'Georgia', serif;
+  color: #003366; /* Dark blue for section titles */
+  margin-top: 1.2em;
+}
+
+/* Links */
+a {
+  color: #003366; /* Dark blue for links */
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* Layout Containers */
+.container,
+.page__content,
+main {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+  text-align: center;
+}
+
+/* Header & Footer */
 header,
 footer {
-  background-color: #f4f4f4; /* unify with background */
+  background-color: #f0f0f0; /* Same light gray */
   color: #000;
   padding: 1.5rem 1rem;
   text-align: center;
@@ -35,86 +62,33 @@ header h1 {
   font-size: 2em;
 }
 
+/* Nav */
 nav {
   margin-top: 0.5rem;
   font-size: 1rem;
 }
-
 nav a {
-  margin: 0 12px;
+  margin: 0 10px;
   display: inline-block;
-  color: #003366; /* dark blue for nav links */
-  text-decoration: none;
-}
-nav a:hover {
-  text-decoration: underline;
 }
 
-/* Section Headers */
-h1, h2, h3, h4, h5 {
-  font-family: 'Georgia', serif;
-  color: #003366; /* dark blue */
-  margin-top: 1.2em;
-}
-
-/* Links */
-a {
-  color: #003366;
-  text-decoration: none;
-}
-a:hover {
-  text-decoration: underline;
-}
-
-/* Content Wrapper */
-.container,
-.page__content {
-  max-width: 960px;
-  margin: 0 auto;
-  padding: 2rem;
+/* Section Links */
+.portfolio-section ul {
+  list-style-position: inside;
+  padding-left: 0;
   text-align: center;
-  background-color: transparent;
 }
 
-/* Project Blocks */
-.project-block {
-  background-color: #14213d; /* dark blue for blocks */
-  color: #fff;
-  padding: 1.5rem;
-  margin: 1.5rem auto;
-  border-radius: 10px;
-  max-width: 900px;
-  text-align: left;
-}
-
-.project-block h3 {
-  color: #fca311;
-  margin-top: 0;
-  margin-bottom: 1rem;
-  text-align: left;
-}
-
-.project-block ul {
-  padding-left: 1.2rem;
-  list-style-type: disc;
-}
-
-.project-block li {
-  margin-bottom: 0.8rem;
-  font-size: 1.05rem;
-}
-
-/* Footer */
-footer {
-  margin-top: 4rem;
-  font-size: 0.9rem;
-  color: #666;
-}
-
-/* Center media */
+/* Images/Videos */
 img, iframe, video {
   display: block;
   margin: 1rem auto;
   max-width: 100%;
   height: auto;
+}
+
+/* Hide GitHub banner */
+header .view,
+header p:first-of-type {
+  display: none !important;
 }
