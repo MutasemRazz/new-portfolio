@@ -81,10 +81,10 @@ Aerospace & Mechanical Engineering | CFD | FEA | Aviation | Oil & Gas | Rocketry
 
 <nav>
   <a href="/new-portfolio/aerospace-mechanical.html">Aerospace & Mechanical Projects</a>
-  <a href="/projects/soar.html">Rocketry & SOAR Projects</a>
-  <a href="/projects/oil-gas.html">Oil & Gas Engineering</a>
-  <a href="/projects/aviation.html">Aviation Experience</a>
-  <a href="/skills.html">Skills & Education</a>
+  <a href="/new-portfolio/rocketry.html">Rocketry & SOAR Projects</a>
+  <a href="/new-portfolio/oil-gas.html">Oil & Gas Engineering</a>
+  <a href="/new-portfolio/aviation.html">Aviation Experience</a>
+  <a href="/new-portfolio/skills.html">Skills & Education</a>
   <a href="mailto:mabdalrazzek@gmail.com">Contact</a>
 </nav>
 
@@ -106,10 +106,10 @@ Aerospace & Mechanical Engineering | CFD | FEA | Aviation | Oil & Gas | Rocketry
     <h3>Portfolio Sections</h3>
     <ul>
       <li><a href="/new-portfolio/aerospace-mechanical.html">Aerospace & Mechanical Projects</a></li>
-      <li><a href="/projects/soar.html">Rocketry & SOAR</a></li>
-      <li><a href="/projects/oil-gas.html">Oil & Gas Engineering</a></li>
-      <li><a href="/projects/aviation.html">Aviation Experience</a></li>
-      <li><a href="/skills.html">Skills & Education</a></li>
+      <li><a href="/new-portfolio/soar.html">Rocketry & SOAR</a></li>
+      <li><a href="/new-portfolio/oil-gas.html">Oil & Gas Engineering</a></li>
+      <li><a href="/new-portfolio/aviation.html">Aviation Experience</a></li>
+      <li><a href="/new-portfolio/skills.html">Skills & Education</a></li>
       <li><a href="mailto:mabdalrazzek@gmail.com">Contact</a></li>
     </ul>
   </section>
