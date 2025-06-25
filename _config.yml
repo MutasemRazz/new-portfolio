@@ -1,8 +1,4 @@
 title: "Mutasem A. Razzek Portfolio"
-remote_theme: orderedlist/minimal
-plugins:
-  - jekyll-remote-theme
-
 description: "Aerospace & Mechanical Engineer | CFD | FEA | Private Pilot"
 baseurl: ""  # Leave empty for GitHub Pages root
 url: "https://mutasemrazz.github.io/portfolio"
@@ -10,16 +6,7 @@ url: "https://mutasemrazz.github.io/portfolio"
 author:
   name: "Mutasem A. Razzek"
 
-  nav:
-  - title: "Mutasem A. Razzek – Mechanical & Aerospace Engineer"
-    url: /
-  - title: "Aerospace & Mechanical Projects"
-    url: /projects/aerospace
-  - title: "Rocketry & SOAR"
-    url: /projects/rocketry
-  - title: "Oil & Gas Engineering Projects"
-    url: /projects/oil-gas
-  - title: "Aviation Experience"
-    url: /projects/aviation
-  - title: "Skills & Education"
-    url: /skills
+theme: jekyll-theme-chirpy
+
+plugins:
+  - jekyll-theme-chirpy
