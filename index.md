@@ -1,8 +1,10 @@
 ---
-{% include navigation.html %}
+
 layout: default
 title: "Mutasem A. Razzek Portfolio"
 ---
+
+{% include navigation.html %}
 
 ### **Mechanical & Aerospace Engineer | EIT | Private Pilot**
 
