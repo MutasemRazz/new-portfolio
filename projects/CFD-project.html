@@ -1,0 +1,59 @@
+---
+layout: default
+title: CFD 2D Flow Over Cylinder
+---
+
+<section class="project-page">
+  <h2>🌪️ CFD 2D Unsteady Flow Over a Circular Cylinder</h2>
+  <p><strong>Course:</strong> Computational Fluid Dynamics<br>
+  <strong>Tools:</strong> OpenFOAM, ParaView, ANSA, MATLAB</p>
+
+  <h3>✅ Objectives</h3>
+  <ul>
+    <li>Simulate 2D unsteady incompressible flow over a circular cylinder using OpenFOAM.</li>
+    <li>Capture the Von Kármán vortex street and study vortex shedding dynamics.</li>
+    <li>Conduct a grid convergence study with coarse, medium, and fine meshes.</li>
+    <li>Compute the Strouhal number and validate results against Roshko (1954) experimental data.</li>
+    <li>Visualize flow behavior using ParaView for time-averaged and instantaneous fields.</li>
+  </ul>
+
+  <h3>📊 Key Results</h3>
+  <ul>
+    <li><strong>Re:</strong> 1920                 </li>
+    <li><strong>Diameter:</strong> 3.18 mm</li>
+    <li><strong>Velocity:</strong> 9.15 m/s</li>
+    <li><strong>Turbulence Model:</strong> SST k-ω</li>
+    <li><strong>Solver:</strong> pimpleFoam (transient)</li>
+    <li><strong>Selected Mesh:</strong> Medium (GCI = 0.35%)</li>
+    <li><strong>Strouhal Number Validation:</strong>
+      <ul>
+        <li>Coarse: 0.190 (10.07% error)</li>
+        <li>Medium: 0.204 (3.65% error)</li>
+        <li>Fine: 0.217 (2.77% error)</li>
+      </ul>
+    </li>
+  </ul>
+
+  <h3>📦 Deliverables</h3>
+  <ul>
+    <li>CFD case setup in OpenFOAM (geometry, meshing, BCs, solver config).</li>
+    <li>Mesh created in ANSA and verified via MATLAB for grid convergence.</li>
+    <li>FFT analysis of lift coefficient to extract vortex shedding frequency and Strouhal number.</li>
+    <li>Post-processed flow visuals in ParaView:</li>
+    <ul>
+      <li>Instantaneous velocity contours (vortex street)</li>
+      <li>Time-averaged velocity fields</li>
+      <li>Velocity profiles at 1D, 2D, 4D, and 8D downstream</li>
+    </ul>
+  </ul>
+
+  <h3>🖼️ Recommended Images</h3>
+  <ul>
+    <li>Figure 1 – Domain geometry with boundary conditions</li>
+    <li>Figure 6 – Grid convergence result comparison</li>
+    <li>Figure 15 – Medium mesh vortex shedding (velocity magnitude)</li>
+    <li>Figure 24 – Velocity profiles across streamwise locations</li>
+  </ul>
+
+  <p>⬅ <a href="/aerospace-mechanical.html">Back to Aerospace & Mechanical Projects</a></p>
+</section>

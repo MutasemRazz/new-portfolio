@@ -16,7 +16,7 @@ Below are selected aerospace and mechanical projects I've completed using tools 
 
 ---
 
-### ✈️ [Aircraft Design – ENME 472 Project](/new-portfolio/projects/aircraft-design.html)
+### ✈️ [Aircraft Design](/new-portfolio/projects/aircraft-design.html)
 - Designed and validated a lightweight RC aircraft using SolidWorks and XFLR5 simulations.
 - Achieved stable, controlled flight with <250g takeoff weight and aerodynamic optimization.
 
@@ -34,7 +34,7 @@ Below are selected aerospace and mechanical projects I've completed using tools 
 
 ---
 
-### 🔥 [Scramjet CFD + 1D Simulation](/new-portfolio/projects/scramjet-cfd.html)
+### 🔥 [Scramjet CFD Simulation](/new-portfolio/projects/scramjet-cfd.html)
 - Combined Python-based 1D modeling with OpenFOAM CFD to analyze scramjet performance.
 - Assessed thrust, TSFC, and combustion efficiency across varying Mach numbers and equivalence ratios.
 
