@@ -2,6 +2,7 @@
 layout: default
 title: Oil & Gas Engineering Projects
 ---
+<img src="/new-portfolio/assets/images/oil-gas.jpg" alt="Oil and Gas Field Photo" style="max-width:100%; border-radius:12px; margin:1rem auto; display:block;">
 
 ## Oil & Gas Engineering Projects  
 **Company:** Canadian Natural Resources Limited (CNRL)  
@@ -16,16 +17,22 @@ title: Oil & Gas Engineering Projects
 Collaborated with lab and field teams to develop and analyze a lightweight polymer-crosslinker mixture to prevent wellbore gelation and reduce downtime. Improved job efficiency and production outcomes.
 
 #### • South Brintnell Battery Consolidation  
-Led the consolidation of three batteries with a projected OPEX savings of $6.5M/year. Oversaw coordination with facilities engineers and directed a pipeline project to alleviate emulsion flow bottlenecks.
+Managed the consolidation of South Brintnell Battery, achieving an estimated $6.5 million annual OPEX savings by the end of 2024. Demonstrated capabilities in operational cost reduction and project management through collaboration with multidisciplinary teams.
+
+#### • Tracer Study 
+Identified and resolved Extreme breakthrough issues in 7 producer wells in South Brintnell by leading a tracer study with a third-party company. Increased production by 64 bbl/d. 
+
+#### • Break-through Innovative Solution 
+Proposed an innovative and cost-effective solution to remedy the communication breakdown between a producer and multiple injectors by focusing on rectifying the issue at the producer's end rather than conducting cross-linker operations on multiple injectors, resulting in a 5x reduction in costs and enhanced overall effectiveness. 
 
 #### • West Brintnell Gas Conservation  
-Spearheaded a gas recovery initiative capturing 37.9 e³m³/month from venting pads and redirecting it to fuel systems or combustors, reducing emissions and enabling carbon credit savings.
+Oversaw a project to capture 37.9 e3m3/month of venting gas, collaborating with facilities engineers to assess expansions and integrate gas into existing pipelines. Successfully earned credits, reduced emissions, and gained hands-on experience in greenhouse gas emissions accounting and environmental stewardship. 
 
 #### • Pelican Battery Boiler Optimization  
 Conducted year-round dynamic fuel/air intake analysis on four boilers, collaborating with third-party consultants to enhance efficiency and reduce fuel costs through actionable recommendations.
 
 #### • Well Maintenance Operations  
-Completed 47 downhole operation files (concentric liner installs, cleanouts, conversions). Personally executed 16 jobs — 10 of which increased production by 275.5 bbl/d.
+Managed 63 well maintenance projects, providing crucial technical support for data analysis. Resulted in a production increase of 502.9 bbl/d or $7.3 million annually, showcasing problem-solving and results-oriented capabilities.
 
 ---
 
